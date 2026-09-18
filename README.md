@@ -1,10 +1,6 @@
 # ¡Hola!
 
 <p align="center">
-  <img src="https://cloud.hassanouammou.com/images/myphotos/@merzouga.jpeg" width="100%" alt="Hassan Ouammou" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=1000&center=true&vCenter=true&width=750&lines=Future+Embedded+Systems+Engineer;Computer+Scientist;Embedded+Systems+%7C+IoT+%7C+Software;Building+Systems+from+Hardware+to+Software" alt="Typing animation" />
 </p>
 
