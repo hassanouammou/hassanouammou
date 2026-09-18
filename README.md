@@ -1,85 +1,49 @@
-# Hi, It's me! Hassan Ouammou :)
-<img src="https://cloud.hassanouammou.me/images/myphotos/@agadir-oufella-2.jpeg" height="350" width="300" alt="Hassan Ouammou" />
+# ¡Hola!
 
+<p align="center">
+  <img src="https://cloud.hassanouammou.com/images/myphotos/@merzouga.jpeg" width="100%" alt="Hassan Ouammou" />
+</p>
 
-**Computer Scientist — Embedded Systems**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=1000&center=true&vCenter=true&width=750&lines=Future+Embedded+Systems+Engineer;Computer+Scientist;Embedded+Systems+%7C+IoT+%7C+Software;Building+Systems+from+Hardware+to+Software" alt="Typing animation" />
+</p>
 
----
-
-I am a computer scientist based in Agadir, Morocco, currently pursuing a Master's degree in Embedded Systems at the Faculty of Science - Agadir. My work sits at the intersection of hardware and software, with a focus on building reliable, efficient systems from the ground up.
-
----
-
-## About
-
-I hold a Bachelor's in Computer Engineering from the Higher School of Technology in Guelmim and bring hands-on experience from internships in web development and project coordination. I am currently a participant in the Erasmus+ MLUMSE programme, contributing to the modernization of education and urban project management.
-
-I care about writing clean, well-documented code and applying solid engineering principles whether I am working on low-level firmware or a web application.
+<p align="center">
+  <a href="https://www.hassanouammou.com">Website</a> •
+  <a href="https://www.linkedin.com/in/hassan-ouammou/">LinkedIn</a> •
+  <a href="mailto:hassanouammou01@gmail.com">Email</a>
+</p>
 
 ---
 
-## Technical Skills
 
-**Hardware & Embedded Systems**
-- Hardware design and embedded systems architecture
-- IoT fundamentals and AI/ML basics
+I'm a **Computer Scientist** based in Agadir, Morocco, currently pursuing a **Master's degree in Embedded Systems** at the Faculty of Science, Agadir.
 
-**Software & Development**
-- Programming and web development
-- Git and GitHub
-- Containerization with Docker
-- Cloud platforms: Google Cloud Platform (GCP) and Microsoft Azure
-
-**Certifications**
-- Adobe certified
-- Microsoft certified
-- LinkedIn certified
+I enjoy building systems from the ground up — from hardware and firmware to applications and cloud services.
 
 ---
 
-## Experience
-
-**Erasmus+ MLUMSE — Participant**
-Faculty of Science, Agadir — December 2025 to present
-Contributing to the modernization of education and urban project management through project planning, collaborative meetings, and the development of innovative solutions.
-
-**Web Developer — Final Year Internship**
-Province of Guelmim — April 2024 to June 2024
-Applied project management methodologies including requirements analysis, UML modeling, and technical documentation. Implemented security standards across the application.
-
-**Project Coordinator — Introductory Internship**
-Province of Guelmim — July 2023 to September 2023
-Wrote progress reports, participated in project follow-up meetings, and tracked project milestones in close collaboration with a mentor.
+<p align="center">
+  Embedded Systems Design • C • C++ • Assembly
+</p>
 
 ---
 
-## Education
-
-| Degree | Institution | Period |
-|---|---|---|
-| Master's in Embedded Systems | Faculty of Science, Agadir | 2024 — 2027 |
-| Bachelor's in Computer Engineering | Higher School of Technology, Guelmim | 2022 — 2024 |
+<p align="center">
+  • Microsoft Certified • MongoDB Certified
+</p>
 
 ---
 
-## Languages
+<p align="center">
+  Arabic • French • English • Spanish
 
-| Language | Level |
-|---|---|
-| Arabic | Native |
-| French | Advanced (Certified) |
-| English | Intermediate |
-| Spanish | Beginner |
+</p>
 
 ---
+--
 
-## Contact
 
-- **Website:** [hassanouammou.me](https://www.hassanouammou.me)
-- **Email:** hassanouammou01@gmail.com
-- **Phone:** +212 646 618 329
-- **Location:** Agadir, Morocco
-
----
-
-*Open to opportunities in embedded systems, IoT, and software engineering.*
+<p align="center">
+  <i>Building systems from hardware to software.</i>
+</p>
